@@ -1,4 +1,4 @@
-# final-project-proposal-the-gulag
+# final-project-proposal
 
 
 
